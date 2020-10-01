@@ -1,6 +1,12 @@
 # About
 
-The portfolio website based on HTML and CSS that very usefull for beginner in web development 
+The portfolio website based on HTML,CSS and that very usefull for beginner in web development.
+
+# HTML CSS JS
+
+html is hyper text markup language also known as browser markup language
+css is cascanding style sheets that give best style for your web page
+javascript is use for best animation and also use in backend
 
 # Moved
 
